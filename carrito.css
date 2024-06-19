@@ -5,7 +5,7 @@
     position: absolute;
     right: 0;
     top: 0;
-    background-color: #888;
+    background-color: #ffffff;
     box-sizing: border-box;
     padding: 2%;
     height: 94vh;
@@ -13,26 +13,18 @@
     overflow: hidden;
     box-sizing: border-box;
     margin:2%;
-    /* display: grid;
-    grid-template-columns: 
-        repeat(
-            auto-fit,
-            minmax(120px, 1fr)
-        ); */
 }
 .carrito__lista {
     display: flex;
     flex-direction: column;
     width: 100%;
     height: 100%;
-    background-color: #9c0000;
     overflow-y: scroll;
 }
 .carrito__items {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-color: #534444;
     justify-content: center;
     align-items: center;
 }
@@ -45,7 +37,6 @@
     align-items: center;
     border-radius: 15px;
     margin: 1%;
-    background-color: #caacac;
 
 }
 .carrito__imagen {
