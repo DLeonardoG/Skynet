@@ -14,7 +14,7 @@
 
 El proyecto Skynet es una plataforma e-commerce en estado de desarrollo, es la maquetacion para una empresa de ventas de ropa, diseñada para visualizar y comprar ropa de mejor calidad a mejor precio.
 
-#### Características Principales 🧮
+## Características🧮
 
 1. **Ropa** : Permite visualizar el catalogo de la ropa añadida.
 
