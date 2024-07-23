@@ -3,13 +3,14 @@
 ## Tabla de contenido
 | Indice | Título  |
 |--|--|
-| 1. | [Descripción](#Descripción) |
-| 2. | [Tecnologías Utilizadas](#TecnologíasUtilizadas) |
-| 3. | [Uso del Repositorio](#UsodelRepositorio) |
-| 4. | [Instrucciones de Ejecución](#InstruccionesdeEjecución) |
-| 5. | [Contacto](#Contacto) |
+| 1. | [Descripción](#Descripcion) |
+| 2. | [Características](#Características) |
+| 3. | [Tecnologías Utilizadas](#Tecnologias) |
+| 4. | [Uso del Repositorio](#Uso) |
+| 5. | [Instrucciones de Ejecución](#Instrucciones) |
+| 6. | [Contacto](#Contacto) |
 
-#### Descripción 🚀
+## Descripción🚀
 
 El proyecto Skynet es una plataforma e-commerce en estado de desarrollo, es la maquetacion para una empresa de ventas de ropa, diseñada para visualizar y comprar ropa de mejor calidad a mejor precio.
 
@@ -18,16 +19,18 @@ El proyecto Skynet es una plataforma e-commerce en estado de desarrollo, es la m
 1. **Ropa** : Permite visualizar el catalogo de la ropa añadida.
 
 
-#### Tecnologías Utilizadas 🖥️
+## Tecnologias🖥️ 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - **Html** : Se uso para el contenido de la pagina.
 - **Css** : Se uso para el diseño de la pagina.
 
-#### Uso del Repositorio 📝
+## Uso📝
 
 Este repositorio contiene el código fuente del proyecto Skynet, conteniendo toda la maquetacion de la pagina. Cada directorio y archivo está estructurado para facilitar despliegue de la aplicación.
 
-#### Instrucciones de Ejecución 📐
+## Instrucciones📐
 
 1. Clona el repositorio a tu máquina local. 
 2. Configura adecuadamente todo lo adecuado para abrir el index de html.
@@ -37,6 +40,6 @@ Este repositorio contiene el código fuente del proyecto Skynet, conteniendo tod
 
 Leonardo Gonzalez
 
-#### Contacto
+## Contacto
 
 darkleonardog@gmail.com
