@@ -16,7 +16,11 @@ El proyecto Skynet es una plataforma e-commerce en estado de desarrollo, es la m
 
 ## Características🧮
 
-1. **Ropa** : Permite visualizar el catalogo de la ropa añadida.
+1. **Catalogo** : Permite visualizar el catalogo de la ropa añadida.
+  
+2. **Carrito** : Permite agregrar al carrito.
+
+3. **Comprar** : Permite comprar la ropa que esta en el carrito.
 
 
 ## Tecnologias🖥️ 
