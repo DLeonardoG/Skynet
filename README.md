@@ -38,7 +38,7 @@ Este repositorio contiene el código fuente del proyecto Skynet, conteniendo tod
 
 #### Autor 👤
 
-Leonardo Gonzalez
+[Leonardo Gonzalez](https://github.com/DLeonardoG)
 
 ## Contacto
 
