@@ -46,4 +46,4 @@ Este repositorio contiene el código fuente del proyecto Skynet, conteniendo tod
 
 ## Contacto
 
-darkleonardog@gmail.com
+Linkedin: <a href="https://www.linkedin.com/in/leonardo-gonzalez-302321311/" target="_blank">Leonardo Gonzalez</a>
